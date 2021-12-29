@@ -4,7 +4,7 @@ Okay , so here is the new project...
 Guess wut ? 
 
 👉
-[A Random Password Generator](genrandompassword.netlify.app) 👈
+[A Random Password Generator](https://genrandompassword.netlify.app/) 👈
 
 Yeah this will help u to generate a strong random password...
 
