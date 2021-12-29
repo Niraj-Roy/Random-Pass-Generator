@@ -13,4 +13,4 @@ Yeah this will help u to generate a strong random password...
 Copyright © 2021 <br>
 Niraj Roy
 
-~ Source code free to use for everyone
+        Source code free to use 
