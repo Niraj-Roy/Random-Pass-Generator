@@ -8,13 +8,13 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #520273;
+  background-color: #fcde67 ;
   height: 100vh;
 }
 
 .password-generator {
   padding: 40px;
-  background-color: #000000;
+  background-color: #5bccf6;
   color: white;
   font-size: 20px;
   font-family: sans-serif;
