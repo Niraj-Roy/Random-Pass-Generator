@@ -9,14 +9,8 @@ Guess wut ?
 Yeah this will help u to generate a strong random password...
 
 
-       ~ Niraj Roy
 
-
-Copyright © 2021
+Copyright © 2021 <br>
 Niraj Roy
 
-[Source code free to use for everyone ]
-
-Mail me at royniraj404@gmail.com
-for credits :)
-
+~ Source code free to use for everyone
