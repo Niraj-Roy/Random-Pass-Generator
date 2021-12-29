@@ -1,4 +1,4 @@
-# Random-Pass-Generator
+# [Random-Pass-Generator](https://genrandompassword.netlify.app/)
 
 Okay , so here is the new project...
 Guess wut ? 
