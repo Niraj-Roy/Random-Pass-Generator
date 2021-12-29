@@ -29,7 +29,7 @@
 .password {
   min-width: 280px;
   background-color: #99ff99;
-  color: rgb(199, 199, 199);
+  color: #000000;
 }
 
 .password p {
@@ -44,7 +44,7 @@
 .password-generator button {
   width: 100%;
   border: none;
-  color: rgba(255, 255, 255, 0.699);
+  color: #000000;
   background-color: #99ff99;
   padding: 10px;
 }
